@@ -1,0 +1,20 @@
+{
+  "name": "test-featuer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamaskani/test-featuer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamaskani/test-featuer/issues"
+  },
+  "homepage": "https://github.com/tamaskani/test-featuer#readme"
+}
